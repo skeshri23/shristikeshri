@@ -86,16 +86,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skeshri23&show_icons=true&theme=gruvbox&title_color=2E7D32&icon_color=2E7D32" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeshri23&layout=compact&theme=gruvbox&title_color=2E7D32" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">⭐️ From <a href="https://github.com/skeshri23">Shristi Keshri</a></p>
